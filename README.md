@@ -1,1 +1,1 @@
-edu project document
+edu project document .
